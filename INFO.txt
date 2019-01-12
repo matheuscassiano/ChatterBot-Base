@@ -1,0 +1,10 @@
+Lista.txt	(O nome da lista não interfere na leitura)
+1ª Linha 	(FRASE)
+2ª Linha 	(RESPOSTA)
+
+EXEMPLTO DE LISTA:
+1ª	Oi			(Você)
+2ª	Olá			(Bot)
+
+3ª	Como vai?	(Você)
+4ª	Vou bem		(Bot)
