@@ -30,7 +30,7 @@ Entre na pasta e inicie o codigo
 
 ```
 cd ChatterBot-base
-python3 ./main.py
+python3 main.py
 ```
 ### Windows
 Para **Windows** será mais facil baixar os arquivos diretamente do **Git** e em seguida execute o arquivo **_main.py_** com a sua IDE para Python
